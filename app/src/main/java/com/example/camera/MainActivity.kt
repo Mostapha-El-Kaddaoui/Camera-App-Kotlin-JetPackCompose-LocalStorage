@@ -1,5 +1,5 @@
 package com.example.camera
-package com.example.sender24
+
 
 import android.Manifest
 import android.content.Context
